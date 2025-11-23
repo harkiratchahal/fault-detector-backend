@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+SQLAlchemy>=2.0
+firebase-admin
+pydantic>=1.10
+python-dotenv
+python-multipart
+gunicorn
+alembic
+psycopg2-binary
+PyMySQL
+pytest
+requests

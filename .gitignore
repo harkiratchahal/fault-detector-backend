@@ -1,0 +1,29 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+sih-venv/
+.venv/
+venv/
+
+# Editor/OS artifacts
+.DS_Store
+Thumbs.db
+*.swp
+
+# Local databases & uploads
+faults.db
+uploads/
+
+# Secrets and env files
+.env
+*.env
+serviceAccountKey.json
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code settings
+.vscode/
